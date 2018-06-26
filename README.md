@@ -6,6 +6,8 @@ Demo-Projekt zum Blog Beitrag auf:
 
 > todo
 
+![Screenshot](src/assets/images/angular_init_demo.gif)
+
 ## Run
 
 Die Anwendung verwendet **Angular CLI**
